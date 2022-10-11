@@ -1,4 +1,4 @@
-import styles from "./alert.module.css";
+import styles from "./alert.module.scss";
 import cn from "classnames";
 
 export default function Alert({ children, type }) {
